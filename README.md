@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is md abdul wahab rubel
 #### I am Front-end web developer 
-![I am Front-end web developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Uploading github thumbnails .png…]()
 
 I bring HTML-5, CSS-3, JavaScript, tailwinds, bootstraps, Node.js, Express, MongoDB, firebase, Next.js, and also the latest update to bring the widgets to life using the React framework, which is very easy to use. I create and update pages of a full website using the above language and medium. update your running website using GitHub After making a full website using the above language
 
