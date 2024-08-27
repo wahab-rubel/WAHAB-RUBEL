@@ -31,5 +31,3 @@ Skills: HTML/CSS/Tailwind/JavaScript/React/Firebase/Node JS/Express JS/MongoDB/N
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=WAHAB-RUBEL)  
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
-
