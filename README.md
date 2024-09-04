@@ -1,6 +1,6 @@
-(https://github.com/user-attachments/assets/5bf4c917-afbb-4d04-90ad-aa5ae90035f4)
-
-I bring HTML-5, CSS-3, JavaScript, tailwinds, bootstraps, Node.js, Express, MongoDB, firebase, Next.js, and also the latest update to bring the widgets to life using the React framework, which is very easy to use. I create and update pages of a full website using the above language and medium. update your running website using GitHub After making a full website using the above language
+[github thumbnail](https://github.com/user-attachments/assets/ab8461d8-64c3-40b1-a87f-1270ed8da991)
+I bring HTML-5, CSS-3, JavaScr!
+ipt, tailwinds, bootstraps, Node.js, Express, MongoDB, firebase, Next.js, and also the latest update to bring the widgets to life using the React framework, which is very easy to use. I create and update pages of a full website using the above language and medium. update your running website using GitHub After making a full website using the above language
 
 Skills: HTML/CSS/Tailwind/JavaScript/React/Firebase/Node JS/Express JS/MongoDB/Next Js
 
