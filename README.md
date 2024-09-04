@@ -20,11 +20,4 @@ Skills: HTML/CSS/Tailwind/JavaScript/React/Firebase/Node JS/Express JS/MongoDB/N
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WAHAB-RUBEL)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WAHAB-RUBEL&show_icons=true&count_private=true)  
-
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/WAHAB-RUBEL/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/WAHAB-RUBEL)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=WAHAB-RUBEL)  
-
