@@ -2,17 +2,7 @@
 I bring HTML-5, CSS-3, JavaScr
 ipt, tailwinds, bootstraps, Node.js, Express, MongoDB, firebase, Next.js, and also the latest update to bring the widgets to life using the React framework, which is very easy to use. I create and update pages of a full website using the above language and medium. update your running website using GitHub After making a full website using the above language
 
-Skills: HTML/CSS/Tailwind/JavaScript/React/Firebase/Node JS/Express JS/MongoDB/Next Js
-
-- 🔭 I’m currently working on upwork 
-- 🌱 I’m currently learning Full stack web development  
-- 💬 Ask me about HTML CSS Tailwind JavaScript React Firebase Node JS Express JS MongoDB
-- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WAHAB-RUBEL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCqom0h73wWZIzSbfMFEU11A)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-abdul-wahab-rubel-22aa07313//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/MAWRUBEL/)  
-
-
-
+Skills: HTML/CSS/Tailwind/JavaScript/React/Firebase/Node JS/Express JS/MongoDB/NextJs/ psd to html
 
 <h1 align="center">Hi 👋, I'm md abdul wahab rubel</h1>
 <h3 align="center">I will convert PSD to HTML tailwind CSS responsive web pages</h3>
