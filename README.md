@@ -13,7 +13,7 @@ Skills: HTML/CSS/Tailwind/JavaScript/React/Firebase/Node JS/Express JS/MongoDB/N
 
 <p align="left"> <a href="https://twitter.com/https://x.com/awr120" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/awr120?logo=twitter&style=for-the-badge" alt="https://x.com/awr120" /></a> </p>
 
-- 🔭 I’m currently working on [psd to html]((https://wahab-rubel.github.io/Assignment-3/))
+- 🔭 I’m currently working on [psd to html] Learning Advance Javascript 
 
 - 🌱 I’m currently learning [**Tailwind css**](https://tailwindcss.com/docs/installation)
 
