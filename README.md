@@ -4,8 +4,8 @@ ipt, tailwinds, bootstraps, Node.js, Express, MongoDB, firebase, Next.js, and al
 
 Skills: HTML/CSS/Tailwind/JavaScript/React/Firebase/Node JS/Express JS/MongoDB/NextJs/ psd to html
 
-<h1 align="center">Hi 👋, I'm md abdul wahab rubel</h1>
-<h3 align="center">I will convert PSD to HTML tailwind CSS responsive web pages</h3>
+<h1 align="center">Hi 👋, I'M MD ABDUL WAHAB RUBEL</h1>
+<h3 align="center">I'M A MERN STACK WEB DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahab-rubel&label=Profile%20views&color=0e75b6&style=flat" alt="wahab-rubel" /> </p>
 
